@@ -4,3 +4,4 @@ Los datos utilizados en este proyectos son los siguientes:
 * Elecciones 2019.
 * Mapa de la Ciudad de Buenos Aires, extraído de https://data.buenosaires.gob.ar/dataset/barrios
 * Información censal por radio, extraído de https://bitsandbricks.github.io/data/CABA_rc.geojson
+* Circuitos electorales de CABA, extraído de https://data.buenosaires.gob.ar/dataset/circuitos-electorales

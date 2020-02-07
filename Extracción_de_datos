@@ -1,0 +1,6 @@
+Los datos utilizados en este proyectos son los siguientes:
+
+* Censo Nacional de Población, Hogares y Viviendas 2010, extraído de http://datar.noip.me/dataset/censo-2010-microdatos
+* Elecciones 2019.
+* Mapa de la Ciudad de Buenos Aires, extraído de https://data.buenosaires.gob.ar/dataset/barrios
+* Información censal por radio, extraído de https://bitsandbricks.github.io/data/CABA_rc.geojson
